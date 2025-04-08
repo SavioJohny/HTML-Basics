@@ -44,3 +44,12 @@ footer {
   text-align: center;
   padding: 20px 0;
 }
+
+.profile-pic {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.profile-pic img {
+  border-radius: 50%;
+}
